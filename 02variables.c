@@ -13,6 +13,7 @@ int main()
     int d= 8;
     int e = 7+6;
 
+    // format specifiers--
     // %d - integers
     // %f - real values
     // %c- characters
